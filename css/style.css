@@ -21,30 +21,43 @@ h3{
 #image{
     display: block;
     max-width: 100%;
+    margin: 0 auto;
 }
 #img-caption{
     font-size: .9rem;
-    padding: .7rem;
+    padding: 1rem;
+    text-align: center;    
 }
 #tribute-info{
     padding: 0 6rem;
+    
 }
  #info-heading{
     text-align:  center;
     font-size: 1.2rem;
     padding: 2rem 0;
  }
+ul{
+    margin-bottom: 1rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
 
 li{
-    font-size: 1rem;
+    font-size: larger;
     margin: 1.2rem 0;
     line-height: 1.6rem;
 }
 #quote{
     font-size: 1rem;
     font-weight: thin;
+    font-style:italic;
+    margin-left: 17%;
+    margin-right: 17%;
 }
 #external-link{
-    font-size: 1rem;
+    font-size: large;
     font-weight: 700;
+    text-align: center;
+    margin-top: 1rem;
 }
